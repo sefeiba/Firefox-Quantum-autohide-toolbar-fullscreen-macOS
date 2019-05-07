@@ -12,7 +12,7 @@ Follow this guide to set up your Firefox's userChrome.css:
 
 https://www.userchrome.org/how-create-userchrome-css.html
 
-####Useful link
+#### Useful link
 
 Make your Firefox browser even better:
 
